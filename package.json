@@ -1,0 +1,40 @@
+{
+  "name": "60-wpm-typing-test",
+  "version": "1.0.0",
+  "description": "Professional typing test application to help users achieve 60 WPM",
+  "main": "typing-test.html",
+  "author": {
+    "name": "imacKrisK",
+    "email": "imKrisK@icloud.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "typing",
+    "wpm",
+    "speed",
+    "practice",
+    "test",
+    "60wpm",
+    "typing-test",
+    "web-app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imacKrisK/60-wpm-typing-test"
+  },
+  "bugs": {
+    "url": "https://github.com/imacKrisK/60-wpm-typing-test/issues",
+    "email": "imKrisK@icloud.com"
+  },
+  "homepage": "https://github.com/imacKrisK/60-wpm-typing-test#readme",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
